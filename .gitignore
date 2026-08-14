@@ -4,3 +4,7 @@ bin/
 .classpath
 .project
 target/
+
+src/com/version1/JDBCExample1.java
+src/com/version1/JDBCExample2.java
+src/com/version1/JDBCExample3.java
